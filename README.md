@@ -106,3 +106,10 @@ npm run dev
 * Can be extended with:
 
   * Cloud deployment
+
+
+## 👨‍💻 Author
+
+Venkat Laxmi Gottam
+
+⭐ If you like this project, don’t forget to star the repo!
