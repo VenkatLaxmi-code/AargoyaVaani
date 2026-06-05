@@ -108,6 +108,29 @@ npm run dev
   * Cloud deployment
 
 
+## 📸 Screenshots
+
+<h3>🏠 Home Page</h3>
+<p align="center">
+  <img src="assets/img1.jpeg" width="700">
+</p>
+
+<h3>🔐 OTP Authentication</h3>
+<p align="center">
+  <img src="assets/img2.jpeg" width="700">
+</p>
+
+<h3>🧠 User Dashboard</h3>
+<p align="center">
+  <img src="assets/img3.jpeg" width="700">
+</p>
+
+<h3>📜AI Symptom Analysis & Hospital Recommendations / History</h3>
+<p align="center">
+  <img src="assets/img4.jpeg" width="700">
+</p>
+
+
 ## 👨‍💻 Author
 
 Venkat Laxmi Gottam
